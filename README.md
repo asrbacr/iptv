@@ -13,8 +13,8 @@
 ##### https://github.com/smolnp/IPTVru/blob/gh-pages/IPTVru.m3u
 ---
 ## Подборка для ТВ на кухне
-##### https://github.com/smolnp/IPTVru/blob/gh-pages/play-list_kitchen.m3u
+##### https://asrbacr.github.io/iptv/play-list_kitchen.m3u
 ---
 ## Подборка для ТВ в деревне
-##### https://github.com/smolnp/IPTVru/blob/gh-pages/play-list_village.m3u
+##### https://asrbacr.github.io/iptv/play-list_village.m3u
 ---
