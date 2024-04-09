@@ -2,7 +2,7 @@
 http://icecast-newradio.cdnvideo.ru:8000/NR_REG1
 
 #EXTINF:-1,Рекорд D'n'B Classics
-https://hls-01-radiorecord.hostingradio.ru/record-drumhits/112/playlist.m3u8?hlssid=7508f1633f8a4e7a919a41dbfc6c8c0f
+https://hls-01-radiorecord.hostingradio.ru/record-drumhits/playlist.m3u8
 
 #EXTINF:-1,Радио Максимум
 https://maximum.hostingradio.ru/maximum96.aacp
