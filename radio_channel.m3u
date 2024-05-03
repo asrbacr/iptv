@@ -52,6 +52,9 @@ https://listen3.vdfm.ru:8000/dacha
 #EXTINF:-1,Дорожное радио
 http://dor2server.streamr.ru:8000/dor_64_no
 
+#EXTINF:-1,Радио Шансон
+https://online-1.gkvr.ru:8000/chanson_vld_64.aac
+
 #EXTINF:-1,Русское радио (Хайповые 20-е)
 http://rusradio.hostingradio.ru/rr2096.aacp
 
