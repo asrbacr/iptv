@@ -3,8 +3,9 @@
 2. Включить публичность репозитория
 ---
 # ip radio
-##### Все станции
+##### Все станции и станции мира
 ##### https://espradio.ru/stream_list/
+##### https://radio.garden/browse
 ## Публичная ссылка на мой список станций
 ##### https://asrbacr.github.io/iptv/radio_channel.m3u
 ---
