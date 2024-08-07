@@ -10,6 +10,9 @@ https://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1,Радио Искатель
 https://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 
+#EXTINF:-1,Радио Владивосток FM
+http://vladfm.ru:8000/vfm
+
 #EXTINF:-1,Наше Радио
 https://nashe1.hostingradio.ru:80/nashe-128.mp3
 
