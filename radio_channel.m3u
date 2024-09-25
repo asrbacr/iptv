@@ -29,7 +29,7 @@ https://online-1.gkvr.ru:8000/s2.aac
 http://rusradio.hostingradio.ru/rusradio128.mp3
 
 #EXTINF:-1,Жара-ФМ
-http://hls02.zharafm.ru/hls/live_hi/index.m3u8
+https://hls-01-zharafm.hostingradio.ru/zharafm/112/playlist.m3u8
 
 #EXTINF:-1,Хайп FM
 https://hfm.amgradio.ru/HypeFM
