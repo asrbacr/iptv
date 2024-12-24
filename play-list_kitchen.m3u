@@ -5,11 +5,11 @@ http://icecast-newradio.cdnvideo.ru:8000/NR_REG1
 #EXTINF:-1 tvg-logo="http://vladfm.ru/VladivostokFM.png", Владивосток FM
 http://vladfm.ru:8000/vfm
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://epgx.site/p/rentv.png" group-title="Общественные",Рен ТВ (HD)
-http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
+http://185.23.80.28:8080/REN_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="Развлекательные",Пятница (WSVGA)
-https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://93.189.224.246:52900/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="https://epgx.site/p/muztv.png" group-title="Музыкальные",МузТВ (WSVGA)
-https://streaming.televizor-24-tochka.ru/live/20-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://stream01.vnet.am/MuzTv/mono.m3u8
 #EXTINF:-1 tvg-id="che" tvg-logo="https://epgx.site/p/che.png" group-title="Развлекательные",Че! (EDTV 576p)
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://epgx.site/p/bober.png" group-title="Хобби и увлечения",Бобер (EDTV 576p)
@@ -18,27 +18,31 @@ http://178.212.71.253:8002/play/a00m/index.m3u8
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://epgx.site/p/avto-plus.png" group-title="Хобби и увлечения",Авто Плюс (EDTV 576p)
 http://176.113.48.221:8986/133
+
+#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://iptvx.one/picons/nicktoons.png" group-title="Детские",Nicktoons (HD)
+http://stream01.vnet.am/Boomerang/mono.m3u8
+
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="Хобби и увлечения",Приключения (HD)
 http://hlstest.eltex-media.ru:8085/travel/index.m3u8
 
 #EXTINF:-1 tvg-id="2277" tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальные",RU TV (HD)
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 tvg-id="ru-tv-by" tvg-logo="https://iptvx.one/picons/ru-tv-by.png" group-title="Музыкальные",RU TV Беларусь (EDTV 576p)
+http://93.189.224.246:52900/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://epgx.site/p/bridge-tv-rock.png" group-title="Музыкальные",Bridge Rock (HD)
-http://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test
 #EXTINF:-1 tvg-id="2024" tvg-logo="http://epg.one/img2/2024.png" group-title="Музыкальные",Bridge Hits (EDTV 576p)
-http://188.113.190.15/122/tracks-v1a1/index.m3u8
+http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
 #EXTINF:0 format="hls" tvg-name="Европа+_ТВ" tvg-id="Европа+ ТВ" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/xekifutumego.png" group-title="Музыкальные",Европа+ ТВ
 http://212.232.63.50:1234/Europa_plus_tv/index.m3u8
 #EXTINF:0 format="hls" tvg-name="BRIDGE_TV_РУССКИЙ_ХИТ" tvg-id="BRIDGE_TV_РУССКИЙ_ХИТ" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/dujoxugozoxo.png" group-title="Музыкальные",BRIDGE TV РУССКИЙ ХИТ
-http://212.232.63.50:1234/BRIDGE_TV_RUSSKIY_KHIT/index.m3u8
+http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:0 format="hls" tvg-name="Bridge_TV" tvg-id="BridgeTV" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/hexisenutute.png" group-title="Музыкальные",Bridge TV
 http://212.232.63.50:1234/BridgeTV/index.m3u8
 #EXTINF:0 format="hls" tvg-name="BRIDGE_TV_CLASSIC" tvg-id="BRIDGE_CLASSIC" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/vifiraduvihu.png" group-title="Музыкальные",BRIDGE TV CLASSIC
 http://212.232.63.50:1234/BRIDGE_CLASSIC/index.m3u8
 #EXTINF:0 format="hls" tvg-name="ТНТ_MUSIC" tvg-id="ТНТ_MUSIC" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/pusamuvutiwa.png" group-title="Музыкальные",ТНТ MUSIC
 http://212.232.63.50:1234/THT_MUSIC/index.m3u8
-#EXTINF:0 format="hls" tvg-name="RU.TV" tvg-id="RU_TV" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/gonawuserajo.png" group-title="Музыкальные",RU.TV
-http://212.232.63.50:1234/RUTV/index.m3u8
 #EXTINF:0 format="hls" tvg-name="О2ТВ" tvg-id="О2ТВ" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/sufukebemoro.png" group-title="Музыкальные",О2ТВ
 http://212.232.63.50:1234/O2TV/index.m3u8
 #EXTINF:0 format="hls" tvg-name="Russian_MusicBox" tvg-id="Russian_Music_Box" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/wacexicomamo.png" group-title="Музыкальные",Russian MusicBox
