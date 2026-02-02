@@ -54,6 +54,8 @@ http://212.232.63.50:1234/Radio_Russkoe_Radio/index.m3u8
 http://212.232.63.50:1234/Radio_Yumor_FM/index.m3u8
 #EXTINF:0 format="other" tvg-name="ENERGY_FM" tvg-id="ENERGY_FM" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/kulabulozuku.png" group-title="Radio",ENERGY FM
 http://212.232.63.50:1234/ENERGY_FM/index.m3u8
+#EXTINF:0 format="other" tvg-name="ENERGY_FM" tvg-id="radio_Ultra" tvg-logo="https://radioultra.ru/storage/87229/conversions/cover-social.jpg" group-title="Radio",Radio Ultra
+https://nashe1.hostingradio.ru:80/ultra-128.mp3
 #EXTINF:0 format="other" tvg-name="Radio_MAXIMUM" tvg-id="Radio_MAXIMUM" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/hidesixafebi.png" group-title="Radio",Radio MAXIMUM
 http://212.232.63.50:1234/Radio_MAXIMUM/index.m3u8
 #EXTINF:0 format="other" tvg-name="DFM" tvg-id="DFM" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/xozorujobula.png" group-title="Radio",DFM
