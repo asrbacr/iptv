@@ -12,33 +12,32 @@ http://212.232.63.50:1234/Pyatnitsa/index.m3u8
 http://212.232.63.50:1234/Muz-TV/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-logo="https://epgx.site/p/che.png" group-title="Развлекательные",Че! (EDTV 576p)
 http://212.232.63.50:1234/Che/index.m3u8
-#EXTINF:-1 tvg-id="bobior" tvg-logo="https://epgx.site/p/bober.png" group-title="Хобби и увлечения",Бобер (EDTV 576p)
-http://178.212.71.253:8002/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="http://epg.it999.ru/img2/614.png" group-title="Хобби и увлечения",Кухня ТВ (EDTV 576p)
-http://stream01.vnet.am/KukhnyaTv/mono.m3u8
-#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://epgx.site/p/avto-plus.png" group-title="Хобби и увлечения",Авто Плюс (EDTV 576p)
-http://176.113.48.221:8986/133
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные" ,ТНТ4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 tvg-id="rus-hualiang-tv" tvg-logo="https://iptvx.one/picons/rus-hualiang-tv.png" group-title="Развлекательные" ,Китай ТВ HD
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 
-#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://iptvx.one/picons/nicktoons.png" group-title="Детские",Nicktoons (HD)
-http://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-id="zootv" tvg-logo="https://iptvx.one/picons/zootv.png" group-title="Познавательные" ,Зоо ТВ
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 tvg-id="sochi-live" tvg-logo="https://iptvx.one/picons/sochi-live.png" group-title="Региональные" ,Sochi Live HD (Сочи)
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1  tvg-id="kamcha-1" tvg-logo="https://iptvx.one/picons/kamcha-1.png" group-title="Региональные",Камчатка HD
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
 
-#EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="Хобби и увлечения",Приключения (HD)
-http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="2277" tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальные",RU TV (HD)
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 tvg-id="ru-tv-by" tvg-logo="https://iptvx.one/picons/ru-tv-by.png" group-title="Музыкальные",RU TV Беларусь (EDTV 576p)
-http://93.189.224.246:52900/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://epgx.site/p/bridge-tv-rock.png" group-title="Музыкальные",Bridge Rock (HD)
+#EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://smotret.tv/images/bridge-tv.webp" group-title="Развлекательные",Bridge TV (smotret.tv)
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=42116&token=8e169ab5bbb2992e8d6d1f0c47ba50d0
+#EXTINF:-1 tvg-id="mtv-rf" tvg-logo="https://smotret.tv/images/mtv-russia.webp" group-title="Развлекательные",МТВ РФ (smotret.tv)
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=45105&token=989b6b3d95292711743ba80a3d42fbbd
+#EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="https://iptvx.one/picons/mtv-live-hd.png" group-title="Музыкальные",MTV Live HD
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Музыкальные" ,Первый музыкальный HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://smotret.tv/images/trace-urban.webp" group-title="Музыкальные",Trace Urban HD
 http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="2024" tvg-logo="http://epg.one/img2/2024.png" group-title="Музыкальные",Bridge Hits (EDTV 576p)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_TV_Hits
+#EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="Региональные" ,Своё ТВ HD (Ставрополь)
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:0 format="hls" tvg-name="Европа+_ТВ" tvg-id="Европа+ ТВ" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/xekifutumego.png" group-title="Музыкальные",Европа+ ТВ
 http://212.232.63.50:1234/Europa_plus_tv/index.m3u8
-#EXTINF:0 format="hls" tvg-name="BRIDGE_TV_РУССКИЙ_ХИТ" tvg-id="BRIDGE_TV_РУССКИЙ_ХИТ" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/dujoxugozoxo.png" group-title="Музыкальные",BRIDGE TV РУССКИЙ ХИТ
-http://92.242.110.52:9835/udp/238.1.9.5:1234
-#EXTINF:0 format="hls" tvg-name="Bridge_TV" tvg-id="BridgeTV" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/hexisenutute.png" group-title="Музыкальные",Bridge TV
-http://92.242.110.52:9835/udp/238.1.9.3:1234
 #EXTINF:0 format="hls" tvg-name="BRIDGE_TV_CLASSIC" tvg-id="BRIDGE_CLASSIC" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/vifiraduvihu.png" group-title="Музыкальные",BRIDGE TV CLASSIC
 http://212.232.63.50:1234/BRIDGE_CLASSIC/index.m3u8
 #EXTINF:0 format="hls" tvg-name="ТНТ_MUSIC" tvg-id="ТНТ_MUSIC" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/pusamuvutiwa.png" group-title="Музыкальные",ТНТ MUSIC
@@ -54,6 +53,8 @@ http://212.232.63.50:1234/Radio_Russkoe_Radio/index.m3u8
 http://212.232.63.50:1234/Radio_Yumor_FM/index.m3u8
 #EXTINF:0 format="other" tvg-name="ENERGY_FM" tvg-id="ENERGY_FM" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/kulabulozuku.png" group-title="Radio",ENERGY FM
 http://212.232.63.50:1234/ENERGY_FM/index.m3u8
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Радио" radio="true",ROCK-FM
+http://nashe1.hostingradio.ru/rock-64.mp3
 #EXTINF:0 format="other" tvg-name="ENERGY_FM" tvg-id="radio_Ultra" tvg-logo="https://radioultra.ru/storage/87229/conversions/cover-social.jpg" group-title="Radio",Radio Ultra
 https://nashe1.hostingradio.ru:80/ultra-128.mp3
 #EXTINF:0 format="other" tvg-name="Radio_MAXIMUM" tvg-id="Radio_MAXIMUM" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/hidesixafebi.png" group-title="Radio",Radio MAXIMUM
