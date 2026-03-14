@@ -4,6 +4,9 @@ http://icecast-newradio.cdnvideo.ru:8000/NR_REG1
 #EXTINF:-1,Рекорд D'n'B Classics
 https://hls-01-radiorecord.hostingradio.ru/record-drumhits/playlist.m3u8
 
+#EXTINF:-1,Рекорд Liquid Funk
+https://hls-01-radiorecord.hostingradio.ru/record-liquidfunk/112/playlist.m3u8
+
 #EXTINF:-1,Радио Максимум
 https://maximum.hostingradio.ru/maximum96.aacp
 
